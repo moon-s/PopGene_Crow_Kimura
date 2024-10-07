@@ -127,18 +127,17 @@ This project aims to create Python implementations of key concepts, equations, a
       3. Continuous Treatment Based on the Kolmogorov Backward Equation
 -   **8.9** The Average Number of Generations Until Fixation of a Mutant Gene in a Finite Population 
 
-### 9. DISTRIBUTION OF GENE FREQUENCIES IN POPULATIONS \
--   **9.1** Wright's Formula for the Gene Frequency Distribution \
--   **9.2** Distribution of Gene Frequencies Among Subgroups Under Linear Pressure  \
--   **9.3** Distribution of Gene Frequencies Under Selection and Reversible Mutation \
--   **9.4** Distribution of Lethal Genes \
--   **9.5** Effect of Random Fluctuation in Selection Intensity on the Distribution of Gene Frequencies \
--   **9.6** Number of Neutral Alleles Maintained in a Finite Population \
--   **9.7** The Number of Overdominant Alleles in a Finite Population \
--   **9.8** The Number of Heterozygous Nucleotide Sites Per Individual Maintained in a Finite Population by Mutation \
+### 9. DISTRIBUTION OF GENE FREQUENCIES IN POPULATIONS
+-   **9.1** Wright's Formula for the Gene Frequency Distribution
+-   **9.2** Distribution of Gene Frequencies Among Subgroups Under Linear Pressure 
+-   **9.3** Distribution of Gene Frequencies Under Selection and Reversible Mutation
+-   **9.4** Distribution of Lethal Genes
+-   **9.5** Effect of Random Fluctuation in Selection Intensity on the Distribution of Gene Frequencies
+-   **9.6** Number of Neutral Alleles Maintained in a Finite Population
+-   **9.7** The Number of Overdominant Alleles in a Finite Population
+-   **9.8** The Number of Heterozygous Nucleotide Sites Per Individual Maintained in a Finite Population by Mutation
 -   **9.9** Decrease of Genetic Correlation with Distance in the Stepping-stone Model of Population Structure
 
-APPENDIX. SOME STATISTICAL AND MATHEMATICAL METHODS FREQUENTLY USED IN POPULATION GENETICS
 
 ## Project Goals
 
